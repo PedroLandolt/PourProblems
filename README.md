@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do PourProblems, um website dedicado a reclamações de vinhos. Este projeto foi desenvolvido como parte do curso de Linguagens e Tecnologias Web (LTW) e tem como objetivo fornecer uma plataforma para os usuários compartilharem suas experiências e problemas relacionados a vinhos.
 
+![Alt text](https://github.com/PedroLandolt/PourProblems/blob/main/sources/PourProblems_Logo_White.png)
+
 ## Funcionalidades Principais
 
 O PourProblems oferece as seguintes funcionalidades principais:
